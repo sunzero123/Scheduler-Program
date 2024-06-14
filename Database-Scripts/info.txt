@@ -1,0 +1,1 @@
+These are the scripts needed to create the database and insert the necessary values
